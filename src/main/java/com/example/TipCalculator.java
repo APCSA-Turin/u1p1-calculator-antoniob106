@@ -78,9 +78,8 @@ public class TipCalculator {
                 itemList.add(newItem);
             }
         }
-        String result = "-------------------------------\n";
         for (String item : itemList) {
-            result = 
+            result =
         }
         return result;
     }
